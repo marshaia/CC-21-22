@@ -1,5 +1,5 @@
 
-# **CC-TP2-21.22**
+# **CC-TP2-21-22**
 Projeto de Comunicações por Computador (2021/2022) - FolderFastSync
 #
 ## Feito por:
